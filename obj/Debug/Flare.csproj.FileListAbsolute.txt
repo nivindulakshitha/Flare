@@ -1,0 +1,11 @@
+C:\Users\Nivindu Lakshitha\Desktop\Flare\bin\Debug\Flare.exe.config
+C:\Users\Nivindu Lakshitha\Desktop\Flare\bin\Debug\Flare.exe
+C:\Users\Nivindu Lakshitha\Desktop\Flare\bin\Debug\Flare.pdb
+C:\Users\Nivindu Lakshitha\Desktop\Flare\obj\Debug\Flare.csproj.AssemblyReference.cache
+C:\Users\Nivindu Lakshitha\Desktop\Flare\obj\Debug\Flare.Flare.resources
+C:\Users\Nivindu Lakshitha\Desktop\Flare\obj\Debug\Flare.Properties.Resources.resources
+C:\Users\Nivindu Lakshitha\Desktop\Flare\obj\Debug\Flare.csproj.GenerateResource.cache
+C:\Users\Nivindu Lakshitha\Desktop\Flare\obj\Debug\Flare.csproj.CoreCompileInputs.cache
+C:\Users\Nivindu Lakshitha\Desktop\Flare\obj\Debug\Flare.exe
+C:\Users\Nivindu Lakshitha\Desktop\Flare\obj\Debug\Flare.pdb
+C:\Users\Nivindu Lakshitha\Desktop\Flare\obj\Debug\Flare.App.resources
